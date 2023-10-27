@@ -1,4 +1,6 @@
 # DCGAN-MNIST-handwritten-digit
+Developed DCGANs (Deep Convolutional Generative Adversarial Networks) with Pytorch to generate new data using MNIST handwritten digit data
+
 
 Using GANs (Generative Adversarial Networks), you may create new data sets that closely resemble genuine data sets. 
 However, GANs requires careful hyperparameter tunining in trainin process.
