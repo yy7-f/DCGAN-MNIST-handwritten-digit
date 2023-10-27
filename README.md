@@ -20,10 +20,12 @@ Architecture of stable DCGANs
 
 Results:
 
-Generated data in the beginning of training:
+Generated data in the beginning of training:  
+
 <img width="374" alt="image" src="https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit/assets/76237852/a217c0b5-23d7-4324-b241-e1d8534492ec">
 
-Generated data in the end of training:
+Generated data in the end of training:  
+
 <img width="383" alt="image" src="https://github.com/yy7-f/DCGAN-MNIST-handwritten-digit/assets/76237852/f6d066f7-fef8-4cf8-b603-1bc8d1666346">
 
 
