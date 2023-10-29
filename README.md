@@ -9,7 +9,7 @@ To solve the issue, DCGANs (Deep Convolutional Generative Adversarial Networks) 
 
 DCGANs (Deep Convolutional Generative Adversarial Networks) mainly composes of convolution layers without max pooling or fully connected layers. It uses strided convolutions and transposed convolutions for the downsampling and the upsampling respectively.     
 
-Architecture of stable DCGANs  
+Architecture of DCGANs  
 • Replace all pooling layers with strided convolutions  
 • Use batchnorm in both the generator and the discriminator  
 • Remove fully connected hidden layers  
